@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hausaufgabenhilfe der Alex Gaming™ Privatschule</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 20px;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            background: #fff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h1 {
+            text-align: center;
+            color: #333;
+        }
+        p {
+            font-size: 1.2em;
+        }
+        a {
+            color: #1a73e8;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+        .links {
+            margin-top: 20px;
+        }
+        .links a {
+            display: block;
+            margin-bottom: 10px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Hausaufgabenhilfe</h1>
+        <p>Willkommen zur Hausaufgabenhilfe der Alex Gaming™ Privatschule. Hier findest du nützliche Links und Ressourcen, die dir bei deinen Hausaufgaben helfen.</p>
+        
+        <div class="links">
+            <h2>Hilfreiche Links</h2>
+            <a href="https://classroom.google.com/" target="_blank">Google Classroom</a>
+            <a href="https://teams.microsoft.com/" target="_blank">Microsoft Teams</a>
+            <a href="https://edmodo.com/" target="_blank">Edmodo</a>
+            <a href="https://scratch.mit.edu/" target="_blank">Scratch</a>
+        </div>
+
+        <div class="contact">
+            <h2>Kontakt</h2>
+            <p>Bei Fragen zur Hausaufgabenhilfe kannst du mir eine E-Mail an <a href="mailto:alexgaming.padh@gmail.com">alexgaming.padh@gmail.com</a> senden.</p>
+        </div>
+    </div>
+</body>
+</html>
